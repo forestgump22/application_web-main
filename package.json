@@ -27,7 +27,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
-    "express": "^4.18.2",
+    "express": "^4.21.0",
     "jquery": "^3.7.1",
     "mathjs": "^13.0.0",
     "rxjs": "~7.8.0",
